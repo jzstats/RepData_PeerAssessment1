@@ -30,20 +30,20 @@ output:
     * Constructing a figure to display the total number of steps per day 
         * Examining further two strange days
   3. **What is the average daily activity pattern?**
-    * Assessment's guidelines
+    * Assessment's guidelines  
     * Creating a table with the average number of steps per interval 
-    * Finding the interval with the maximum value of average number of steps
-    * Constructing a figure to display the average daily activity
-  4. **Imputing missing values**
-    * Assessment's guidelines
-    * Exploring the missing data
-    * Imputing the missing data
-    * Examining the effects of the imputation in the data
-        * Calculating the total number of steps per day, with imputed data
+    * Finding the interval with the maximum value of average number of steps  
+    * Constructing a figure to display the average daily activity  
+  4. **Imputing missing values**  
+    * Assessment's guidelines  
+    * Exploring the missing data  
+    * Imputing the missing data  
+    * Examining the effects of the imputation in the data  
+        * Calculating the total number of steps per day, with imputed data  
         * Constructing a figure to display the total number of steps per day,
         with missing values imputed
-        * Examining the effect of imputation on variability for total steps per day
-        * Summarizing the results of the imputation on the data
+        * Examining the effect of imputation on variability for total steps per day  
+        * Summarizing the results of the imputation on the data  
   5. **Are there differences in activity patterns between weekdays and weekends?**
     * Assessment's guidelines
     * Creating a table with the __wday__ variable
